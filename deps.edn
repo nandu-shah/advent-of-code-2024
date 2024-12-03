@@ -1,0 +1,4 @@
+{:deps {io.github.nextjournal/clerk {:mvn/version  "0.16.1016" }
+        io.github.nextjournal/markdown {:git/sha "6683c48dfdb23404a23057817b6ac3acf0310bca"} ; got this from https://github.com/nextjournal/clerk/issues/642
+        org.slf4j/slf4j-simple {:mvn/version "1.7.36"} ; got this from https://www.simon-neutert.de/2022/clojure-neo4j-error/
+}}
